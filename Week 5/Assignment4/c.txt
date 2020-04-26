@@ -1,0 +1,20 @@
+X	5000x401
+Y	5000x1
+yk	5000x10
+
+Theta1	25x401
+Theta2	10x26
+
+a	5000x26
+delta3	10x5000
+delta2	25x5000
+gradAccum2 10x26
+
+a1	1x401
+z2	26x1
+a2	26x1
+z3	10x1
+a3	10x1
+delta_3	10x1
+delta_2	25x1
+Theta2_grad 10x26	
